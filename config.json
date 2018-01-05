@@ -1,10 +1,8 @@
 {
-  "username": "johndoe91",
-  "name": "John Doe",
+  "username": "ookangzheng",
+  "name":"Edward Oo",
   "projects": [
-    "http://github.com/john91doe/profiles",
-    "http://github.com/john91doe/i-learn-css-flexbox",
-    "http://github.com/john91doe/my-webpage"
+
   ],
   "background":[
     "A graduate student from NTUT Interaction Design Dept",
@@ -15,9 +13,9 @@
     "SASS 2 months"
   ],
   "interests":[
-    "JavaScript (how to build web, desktop and mobile apps)",
+    "Block chain",
     "Remote Gigs/Jobs (forming a local agency/cooperative (as an app)"
   ],
-  "twitter": "http://twitter.com/johndoe91",
-  "github": "http://github.com/john91doe"
+  "twitter": "http://twitter.com/ookangzheng",
+  "github": "http://github.com/ookangzheng"
 }
